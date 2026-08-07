@@ -1,0 +1,16 @@
+import constructionImage from "../assets/images/ongoing-project.jpg";
+
+const ongoingProjects = [
+  {
+    id: 1,
+    name: "Luxury Residential Project",
+    structure: "G + 2 + Penthouse",
+    location: "Hyderabad",
+    status: "Plastering in Progress",
+    progress: 70,
+    completion: "December 2026",
+    image: constructionImage,
+  },
+];
+
+export default ongoingProjects;
