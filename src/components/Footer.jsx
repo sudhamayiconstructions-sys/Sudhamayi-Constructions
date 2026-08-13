@@ -187,7 +187,7 @@ export default function Footer() {
 
                   <span className="break-all text-gray-400">
 
-                    surya8102@gmail.com
+                    sudhamayiconstructions@gmail.com
 
                   </span>
 
