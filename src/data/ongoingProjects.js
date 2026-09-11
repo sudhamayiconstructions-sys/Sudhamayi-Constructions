@@ -1,4 +1,4 @@
-import constructionImage from "../assets/images/ongoing-project.jpg";
+import constructionImage from "../assets/images/ongoing-project.jpeg";
 
 const ongoingProjects = [
   {
